@@ -9,7 +9,7 @@ function App() {
     {
 			path: "/",
 			element: (
-				<AppHead title="Home pahe">
+				<AppHead title="Home ">
 					<Aboutus />
 				</AppHead>
 			),
